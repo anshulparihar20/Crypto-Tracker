@@ -150,7 +150,7 @@ a{
   width: 22%
 }
 
-.SelectButton:hover{
+.selectButton:hover{
   background-color: gold;
   color: black;
  }
